@@ -583,7 +583,7 @@ ss58_address_format!(
 	CrustAccount =>
 		(66, "crust", "Crust Network, standard account (*25519).")
 	LegendsAccount =>
-		(77, "legends", "legends mainnet, testnet, standard account (*25519).")
+		(52, "legends", "legends mainnet, testnet, standard account (*25519).")
 	// Note: 48 and above are reserved.
 );
 

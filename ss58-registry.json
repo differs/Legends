@@ -443,6 +443,15 @@
 			"website": null
 		},
 		{
+			"prefix": 52,,
+			"network": "legends",
+			"displayName": "Legends Tech",
+			"symbols": ["LGS"],
+			"decimals": [14],
+			"standardAccount": "*25519",
+			"website": "https://piglegends.pot-game.tech"
+		}
+		{
 			"prefix": 65,
 			"network": "aventus",
 			"displayName": "AvN Mainnet",
@@ -459,15 +468,6 @@
 			"decimals": [12],
 			"standardAccount": "*25519",
 			"website": "https://crust.network"
-		},
-		{
-			"prefix": 77,
-			"network": "legends",
-			"displayName": "Legends Tech",
-			"symbols": ["LGS"],
-			"decimals": [14],
-			"standardAccount": "*25519",
-			"website": "https://piglegends.pot-game.tech"
 		}
 	]
 }
