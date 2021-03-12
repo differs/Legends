@@ -70,7 +70,7 @@ pub fn flaming_fir_config() -> Result<ChainSpec, String> {
 
 /// live config generator
 pub fn live_config() -> Result<ChainSpec, String> {
-	ChainSpec::from_json_bytes(&include_bytes!("../res/rawlive.json")[..])
+	ChainSpec::from_json_bytes(&include_bytes!("../res/rawLive.json")[..])
 }
 
 fn session_keys(
