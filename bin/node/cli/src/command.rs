@@ -25,7 +25,8 @@ use crate::service::new_partial;
 
 impl SubstrateCli for Cli {
 	fn impl_name() -> String {
-		"Substrate Node".into()
+		// "Substrate Node".into()
+		"Legends Chain".into()
 	}
 
 	fn impl_version() -> String {
