@@ -69,7 +69,7 @@ DON'T USE THESE KEYS, GENERATE YOUR NEW KEYS
 ```
 touch /etc/systemd/system/Legends-validator.service
 ```
-add these code in Legends-validator.service, modify the port, ws-port, rpc-port if needec.
+add these code in Legends-validator.service, modify the port, ws-port, rpc-port if needed.
 ```
 [Unit]
 Description=Legends Validator
