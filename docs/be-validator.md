@@ -70,6 +70,9 @@ DON'T USE THESE KEYS, GENERATE YOUR NEW KEYS
 touch /etc/systemd/system/Legends-validator.service
 ```
 add these code in Legends-validator.service, modify the port, ws-port, rpc-port if needed.
+
+change "/root/data-Legends/Legends"  to your path, "/root/data-Legends/data-Le/bet-2" to the path you wish the blockchain data to store.
+
 ```
 [Unit]
 Description=Legends Validator
